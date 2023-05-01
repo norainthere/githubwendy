@@ -1,12 +1,11 @@
 import os
 import streamlit as st
 import openai 
-from apikey import get_api_key
-
-openai.api_key = get_api_key()
-
 from langchain.llms import OpenAI
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
+
+# Fetch OpenAI API key from environment variable
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 # Set up OpenAI Client
 openai_model = 'text-davinci-003'
