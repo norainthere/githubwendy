@@ -7,4 +7,4 @@ In order to engage this model, please provide specific descriptive terms of the 
     (If you want to use another software synthesizer, simply add that context at the end of your prompt
       for example"generate a [descriptors] sound for the sofware synthesizer 'dexed' will generate dexed parameters)
       If no additional context is provided Wendy will generate parameters for "Serum" by default.
-This bot is named Wend1 after Wendy Carlos, the inventor of the modern synthesizer.
+This bot is named Wend1 after Wendy Carlos, the transgender woman who invented the modern synthesizer.
