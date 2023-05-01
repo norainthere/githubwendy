@@ -1,5 +1,5 @@
 # Wend1
-This is a chatbot designed to help you create patches for the software synthesizer serum.
+This is a chatbot designed to help you create patches for the software synthesizer serum!
 This app runs on the open ai framework via streamlab, langchain, and the OpenAI framework.
 In order to engage this model, please provide specific descriptive terms of the sound you are looking for to the chatbot.
   >Please format your input as "generate a [descriptors] sound"
